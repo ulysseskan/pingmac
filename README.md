@@ -1,0 +1,1 @@
+Quick script to ping an IP every hour and send a macOS notification if it's not responsive.
